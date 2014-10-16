@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[azt:home|Door43 (azt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-azt|d43-azt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-azt/archive/master.zip|d43-azt.zip]]
+
+**Recent Changes**
+{{changes>ns = azt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/azt|Ethnologue data]]
+
